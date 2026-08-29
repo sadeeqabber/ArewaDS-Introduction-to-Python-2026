@@ -4,7 +4,7 @@
 
 **Arewa Data Science Academy**
 
-This guide takes you from a fresh computer to a working data science environment. It assumes no prior programming experience. If you come from chemistry, biology, or any other background where the laboratory is a physical space rather than a screen, this guide is written for you.
+This guide takes you from a fresh computer to a working data science environment. It assumes no prior programming experience and work experience. If you come from chemistry, biology, or any other background where the laboratory is a physical space rather than a screen, this guide is written for you.
 
 Work through the sections in order. Do not skip ahead, because each step depends on the one before it. Set aside about two hours for the whole process, and make sure you have a stable internet connection before you begin.
 
